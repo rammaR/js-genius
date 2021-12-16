@@ -1,6 +1,6 @@
 # js-genius
 
-Neste projeto desenvolvi um jogo estilo genius como resultado do curso 'Criando seu jogo de memória estilo Genius ' (link:shorturl.at/iuDOQ)
+Neste projeto desenvolvi um jogo estilo genius como resultado do curso 'Criando seu jogo de memória estilo Genius ' (shorturl.at/iuDOQ)
 promovido pela Digital Innovation One.
 
 Neste curso aprendi mais sobre conceitos de CSS Grid e CSS Flex.

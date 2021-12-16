@@ -19,7 +19,7 @@ body {
 
 .main-game {
     height: 60vh;
-    width: 60vw;
+    width: 40vw;
     margin-top: 5vh;
     margin-bottom: 5vh;
     display: flex;
